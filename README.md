@@ -26,7 +26,7 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-TORNADO/TFNSPAMBOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SATYA-OP/TFNBOTSPAM)
 ------------------------------------------------
 
 CREDITS GOES TO MAHADEV-TORNADO-SPAM-BOT
